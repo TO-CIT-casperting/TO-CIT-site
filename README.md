@@ -1,5 +1,5 @@
 # CIT Minor Git Hub Page
-## CIT 281 Class Spring Quarter 2022 ![flower image](https://unsplash.com/photos/WqbxyJuw7sg)
+## CIT 281 Class Spring Quarter 2022 ![flower image](flower2.jpg)
 ### Lab 1: 
   1. Install and setup personal computer with the software tools required for the course
   2. Practice using software tools
