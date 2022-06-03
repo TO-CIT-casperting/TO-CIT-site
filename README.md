@@ -68,12 +68,12 @@
   3. Use the ping command and practice using the break keyboard sequence
   4. Create and execute a JAVAScript files using Node.js and Visual Studio code (VSCode) terminal and Run and Debug
   
-### Project 2: GIT repo via VSCode
+### [Project 2](https://to-cit-casperting.github.io/cit281-p2/): GIT repo via VSCode
   1. Use CLI to create and and work with repo
   2. Practice using git and refactoring
   3. Use git via VSCode
   
-### Project 3: Non-server Node.js, Fastify with GET and routes
+### [Project 3](https://to-cit-casperting.github.io/cit281-p3/): Non-server Node.js, Fastify with GET and routes
   1. Interpreting functional descriptions and specification
   2. Breaking project into manageable components
   3. Writing and executing non-web server Node.js JavaScript using VSCode
@@ -83,7 +83,7 @@
   7. Using Fastify with the GET verb, routesm and query parameters
   8. Loading a file and using as web page
   
-### Project 4:
+### [Project 4](https://to-cit-casperting.github.io/cit281-p4/): Node.js REST API, testing code module, JSON, Fastify verbs
   1. Writing and executing Node.js REST API server using VSCode
   2. Using Fastify with GET verb, routes, and route parameters
   3. Woring with static data
@@ -92,19 +92,19 @@
   6. Using JSON
   7. Using Fastify with POST, PUT, and DELETE verbs
   
-### Project 5: JavaScript classes in the Monster Game program
+### [Project 5](https://to-cit-casperting.github.io/cit281-p5/): JavaScript classes in the Monster Game program
   1. Working with JavaScript Class constructors and methods
   2. Working with code modules
   3. Woring with Array map() and forEach() methods
   4. Working with concept of a gaming loop
   5. Working with objects and arrays
 
-### Project 6: Rectangle class and Triangle class inherit from Shape base class
+### [Project 6](https://to-cit-casperting.github.io/cit281-p6/): Rectangle class and Triangle class inherit from Shape base class
   1. Working with JavaScript Classes with inheritance
   2. Debugging code
   3. Using a generic block of code to process data
 
-### Project 7: GitHub repos and GitHub Pages
+### [Project 7](https://to-cit-casperting.github.io/cit281-p7/): GitHub repos and GitHub Pages
   1. Working with GitHub repos
   2. Working with GitHub Pages
   3. Creating an initial CIT Minor portfilio for labs and projects
