@@ -1,4 +1,4 @@
-### CIT 281 Labs and Projecs
+# CIT 281 Labs and Projecs
 
 ## Lab 1: 
   1. Install and setup personal computer with the software tools required for the course
