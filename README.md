@@ -1,6 +1,6 @@
 # CIT 281 Labs and Projecs
 
-Lab 1: 
+## Lab 1: 
 
   Install and setup personal computer with the software tools required for the course
   
@@ -13,7 +13,7 @@ Lab 1:
   Create first Node.js server-side JAVAScript file
   
   
-Project 1:
+## Project 1:
 
   Use the commnad line interface (CLI) of operating system to create a number of folders
   
