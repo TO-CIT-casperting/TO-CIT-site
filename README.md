@@ -50,7 +50,7 @@
   2. Creating  GitHub repository
   3. Update and commit JavaScript file to practice error handling
   4. Push changes to GitHub
-  5.
+
 ### [Lab 8](https://to-cit-casperting.github.io/cit281-lab8/): Node-fetch and Fastify with JSONPlaceholder data 
   1. Initialize Node.js folder 
   2. Install node-fetch package
