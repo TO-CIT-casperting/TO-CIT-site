@@ -40,6 +40,27 @@
   5. Using Postman to test server GET routes
   6. Add POST handling to server application and respond with JSON
   7. Use Postman and POST request
+  
+### Lab 6: GitHub, JavaScript Classes
+  1. GitHub introduction class 
+  2. Creating and working with JavaScript Classes (Book and Library)
+
+### Lab 7: GitHub repository, error handling 
+  1. Create GitHub organization for the CIT Minor 
+  2. Creating  GitHub repository
+  3. Update and commit JavaScript file to practice error handling
+  4. Push changes to GitHub
+  5.
+### Lab 8: Node-fetch and Fastify with JSONPlaceholder data 
+  1. Initialize Node.js folder 
+  2. Install node-fetch package
+  3. Working with fastify and node-fetch to retrive all photos from JSONPlaceholder site
+  4. Working with fastify and node-fetch to one photo from JSONPlaceholder site
+ 
+### Lab 9: GitHub Learning course 
+  1. Create Learning Lab course/repo  
+  2. Practice exiting and returing to the course from course repo
+  3. Working thru the GitHub Learning Course
 
 ### Project 1:
   1. Use the commnad line interface (CLI) of operating system to create a number of folders
@@ -70,3 +91,22 @@
   5. Using Postman to test web server routes
   6. Using JSON
   7. Using Fastify with POST, PUT, and DELETE verbs
+  
+### Project 5: JavaScript classes in the Monster Game program
+  1. Working with JavaScript Class constructors and methods
+  2. Working with code modules
+  3. Woring with Array map() and forEach() methods
+  4. Working with concept of a gaming loop
+  5. Working with objects and arrays
+
+### Project 6: Rectangle class and Triangle class inherit from Shape base class
+  1. Working with JavaScript Classes with inheritance
+  2. Debugging code
+  3. Using a generic block of code to process data
+
+### Project 7: GitHub repos and GitHub Pages
+  1. Working with GitHub repos
+  2. Working with GitHub Pages
+  3. Creating an initial CIT Minor portfilio for labs and projects
+
+
