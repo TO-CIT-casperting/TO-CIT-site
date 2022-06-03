@@ -32,7 +32,7 @@
   5. Fix MIME error, test, and commit
   6. Add a second route with query parameters
 
-### Lab 5: 
+### Lab 5: Postman, fastify server with GET and JSON
   1. Download and install Postman 
   2. Creating collection folders
   3. Creating Node.js and fastify server application with GET and respond wth JSON
@@ -62,18 +62,18 @@
   2. Practice exiting and returing to the course from course repo
   3. Working thru the GitHub Learning Course
 
-### Project 1:
+### Project 1: Commnad Line Interface (CLI), VSCode, Node.js
   1. Use the commnad line interface (CLI) of operating system to create a number of folders
   2. List the folders in a tree-like structure
   3. Use the ping command and practice using the break keyboard sequence
   4. Create and execute a JAVAScript files using Node.js and Visual Studio code (VSCode) terminal and Run and Debug
   
-### Project 2:
+### Project 2: GIT repo via VSCode
   1. Use CLI to create and and work with repo
   2. Practice using git and refactoring
   3. Use git via VSCode
   
-### Project 3:
+### Project 3: Non-server Node.js, Fastify with GET and routes
   1. Interpreting functional descriptions and specification
   2. Breaking project into manageable components
   3. Writing and executing non-web server Node.js JavaScript using VSCode
