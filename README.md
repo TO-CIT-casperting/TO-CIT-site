@@ -1,7 +1,7 @@
 # CIT Minor Git Hub Page
 ## CIT 281 Class Spring Quarter 2022 ![flower image](flower2.jpg)
 
-### [Lab 1](https://to-cit-casperting.github.io/cit281-lab1/):
+### [Lab 1](https://to-cit-casperting.github.io/cit281-lab1/): Setup tools and development environment
 
   1. Install and setup personal computer with the software tools required for the course
   2. Practice using software tools
@@ -9,12 +9,12 @@
   4. Practice keyboard shortcuts
   5. Create first Node.js server-side JAVAScript file
   
-### Lab 2: 
+### Lab 2: Use CLI commands and setup GIT user credentials
   1. Use CLI commands 
   2. Setup GIT user credentials
   3. Learn to use GIT commands
   
-### Lab 3: 
+### Lab 3: Refactoring, destructuring an object, arrow function expressions, for..in, for..of, module.exports
   1. Practice refactoring
   2. Practice destructuring an object
   3. Practice converting normal functions into arrow function expressions
@@ -24,7 +24,7 @@
   7. Importing using require
   8. Using spread operator
 
-### Lab 4: 
+### Lab 4: Fastify, Node.js web server, npm
   1. Using Fastify Node,js web server 
   2. Using Node Package Manager (npm)
   3. Add Fastify to project 
