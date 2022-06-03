@@ -1,6 +1,8 @@
 # CIT Minor Git Hub Page
 ## CIT 281 Class Spring Quarter 2022 ![flower image](flower2.jpg)
-### Lab 1: 
+
+### [Lab 1](https://to-cit-casperting.github.io/cit281-lab1/):
+
   1. Install and setup personal computer with the software tools required for the course
   2. Practice using software tools
   3. Practice terminal or shell commands
