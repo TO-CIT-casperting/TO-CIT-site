@@ -12,7 +12,7 @@
   1. Use CLI commands 
   2. Setup GIT user credentials
   3. Learn to use GIT commands
-  4. 
+  
 ### Lab 3: 
   1. Practice refactoring
   2. Practice destructuring an object
@@ -41,7 +41,7 @@
   7. Use Postman and POST request
 
 
-## Projecs
+## Projects
 
 ### Project 1:
   1. Use the commnad line interface (CLI) of operating system to create a number of folders
