@@ -1,4 +1,4 @@
-# CIT 281 Class Spring Quarter 2022 ![flower image](flower.png}
+# CIT 281 Class Spring Quarter 2022 ![flower image](flower.jpg}
 ## Labs
 
 ### Lab 1: 
