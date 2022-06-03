@@ -9,12 +9,12 @@
   4. Practice keyboard shortcuts
   5. Create first Node.js server-side JAVAScript file
   
-### Lab 2: Use CLI commands and setup GIT user credentials
+### [Lab 2](https://to-cit-casperting.github.io/cit281-lab2/): Use CLI commands and setup GIT user credentials
   1. Use CLI commands 
   2. Setup GIT user credentials
   3. Learn to use GIT commands
   
-### Lab 3: Refactoring, destructuring an object, arrow function expressions, for..in, for..of, module.exports
+### [Lab 3](https://to-cit-casperting.github.io/cit281-lab3/): Refactoring, destructuring an object, arrow function expressions, for..in, for..of, module.exports
   1. Practice refactoring
   2. Practice destructuring an object
   3. Practice converting normal functions into arrow function expressions
@@ -24,7 +24,7 @@
   7. Importing using require
   8. Using spread operator
 
-### Lab 4: Fastify, Node.js web server, npm
+### [Lab 4](https://to-cit-casperting.github.io/cit281-lab4/): Fastify, Node.js web server, npm
   1. Using Fastify Node,js web server 
   2. Using Node Package Manager (npm)
   3. Add Fastify to project 
@@ -32,7 +32,7 @@
   5. Fix MIME error, test, and commit
   6. Add a second route with query parameters
 
-### Lab 5: Postman, fastify server with GET and JSON
+### [Lab 5](https://to-cit-casperting.github.io/cit281-lab5/): Postman, fastify server with GET and JSON
   1. Download and install Postman 
   2. Creating collection folders
   3. Creating Node.js and fastify server application with GET and respond wth JSON
@@ -41,28 +41,28 @@
   6. Add POST handling to server application and respond with JSON
   7. Use Postman and POST request
   
-### Lab 6: GitHub, JavaScript Classes
+### [Lab 6](https://to-cit-casperting.github.io/cit281-lab6/): GitHub, JavaScript Classes
   1. GitHub introduction class 
   2. Creating and working with JavaScript Classes (Book and Library)
 
-### Lab 7: GitHub repository, error handling 
+### [Lab 7](https://to-cit-casperting.github.io/cit281-lab7/): GitHub repository, error handling 
   1. Create GitHub organization for the CIT Minor 
   2. Creating  GitHub repository
   3. Update and commit JavaScript file to practice error handling
   4. Push changes to GitHub
   5.
-### Lab 8: Node-fetch and Fastify with JSONPlaceholder data 
+### [Lab 8](https://to-cit-casperting.github.io/cit281-lab8/): Node-fetch and Fastify with JSONPlaceholder data 
   1. Initialize Node.js folder 
   2. Install node-fetch package
   3. Working with fastify and node-fetch to retrive all photos from JSONPlaceholder site
   4. Working with fastify and node-fetch to one photo from JSONPlaceholder site
  
-### Lab 9: GitHub Learning course 
+### [Lab 9](https://to-cit-casperting.github.io/cit281-lab9/): GitHub Learning course 
   1. Create Learning Lab course/repo  
   2. Practice exiting and returing to the course from course repo
   3. Working thru the GitHub Learning Course
 
-### Project 1: Commnad Line Interface (CLI), VSCode, Node.js
+### [Project 1](https://to-cit-casperting.github.io/cit281-p1/): Commnad Line Interface (CLI), VSCode, Node.js
   1. Use the commnad line interface (CLI) of operating system to create a number of folders
   2. List the folders in a tree-like structure
   3. Use the ping command and practice using the break keyboard sequence
