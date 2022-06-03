@@ -1,6 +1,5 @@
-# CIT 281 Class Spring Quarter 2022 ![flower image](flower.jpg)
-## Labs
-
+# CIT Minor Git Hub Page
+## CIT 281 Class Spring Quarter 2022 ![flower image](flower.jpg)
 ### Lab 1: 
   1. Install and setup personal computer with the software tools required for the course
   2. Practice using software tools
@@ -39,9 +38,6 @@
   5. Using Postman to test server GET routes
   6. Add POST handling to server application and respond with JSON
   7. Use Postman and POST request
-
-
-## Projects
 
 ### Project 1:
   1. Use the commnad line interface (CLI) of operating system to create a number of folders
